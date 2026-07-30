@@ -1,0 +1,9 @@
+data/
+*.npz
+*.hdf5
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+!config/*.txt

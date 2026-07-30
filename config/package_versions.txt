@@ -1,0 +1,13 @@
+Python 3.11
+numpy 2.4.6
+scipy 1.17.1
+pandas 2.3.3
+h5py 3.16.0
+wfdb 4.3.1
+neurokit2 0.2.13
+scikit-learn 1.9.0
+tabpfn 8.1.0 (loads TabPFN-3 checkpoint: tabpfn-v3-classifier-v3_default.ckpt)
+
+Hardware: Apple M4, 16 GB unified memory, CPU only (no GPU used or required).
+Total compute for the primary analysis, including 10x5 repeated cross-validation
+across all model classes, was under two minutes.
