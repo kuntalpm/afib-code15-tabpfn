@@ -1,3 +1,6 @@
+# Reproducible environment for the AF substrate ECG analysis
+# Python 3.11
+
 numpy==2.4.6
 scipy==1.17.1
 pandas==2.3.3
@@ -7,4 +10,4 @@ neurokit2==0.2.13
 scikit-learn==1.9.0
 tabpfn==8.1.0
 matplotlib==3.11.1
-statsmodels
+statsmodels==0.14.6
